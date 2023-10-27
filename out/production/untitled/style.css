@@ -1,0 +1,10 @@
+.custom-dialog {
+    /* Tilpas din styling her */
+    -fx-background-color: #BFD7EA;
+    -fx-font-size: 14px;
+    /* ... osv. */
+}
+.button {
+    -fx-background-color: rgb(162, 179, 203);
+    -fx-text-fill: Black;
+}

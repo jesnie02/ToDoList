@@ -1,0 +1,4 @@
+#Mon Oct 23 10:26:58 CEST 2023
+listDone=ToDo list
+listProgress=Blive datamatiker,Lave mad,Banke Thomas i spil
+listToDo=Lave lektier,Bage kage,Tr\u00E6ne
